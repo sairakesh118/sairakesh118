@@ -10,19 +10,25 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc0dm14bjdiZHVncjc1ZzFwZHkzMnhmOXczb2NtdnhmMHhodWtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
+      <h3>🧑‍💻 About Me</h3>
+      <ul>
+        <li>🔹 I enjoy building web applications that solve real-world problems using the <strong>MERN stack</strong>.</li>
+        <li>🔹 Currently working as a <strong>React Developer at Qfloo AI</strong>, crafting dynamic UI tools and workflow builders.</li>
+        <li>🔹 Previously deployed and managed cloud infrastructure using <strong>AWS (EC2, S3, RDS)</strong> during my internship at NIELIT.</li>
+        <li>🔹 Passionate about clean code, user experience, and full-stack performance.</li>
+      </ul>
 
-###
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc0dm14bjdiZHVncjc1ZzFwZHkzMnhmOXczb2NtdnhmMHhodWtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="180" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
-## 🧑‍💻 About Me
-
-🔹 I enjoy building web applications that solve real-world problems using the **MERN stack**.  
-🔹 Currently working as a **React Developer at Qfloo AI**, crafting dynamic UI tools and workflow builders.  
-🔹 Previously deployed and managed cloud infrastructure using **AWS (EC2, S3, RDS)** during my internship at NIELIT.  
-🔹 Passionate about clean code, user experience, and full-stack performance.
-
-###
 
 ## 🛠️ Tech Stack
 
