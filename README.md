@@ -65,15 +65,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/sairakesh118/sairakesh118/raw/output/github-contribution-grid-snake.svg" />
-
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sairakesh118.sairakesh118" />
-</p>
-
 
 
 
