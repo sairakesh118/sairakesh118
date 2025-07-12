@@ -66,11 +66,12 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
+  <img src="https://github.com/sairakesh118/sairakesh118/raw/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sairakesh118&icon=0&color=0" alt="visitor badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sairakesh118.sairakesh118" />
 </p>
 
 
