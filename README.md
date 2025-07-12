@@ -12,6 +12,8 @@
 
 ## 🧑‍💻 About Me
 
+
+
 <div align="left">
   <p float="left" width="60%">
     🔹 I enjoy building web applications that solve real-world problems using the <strong>MERN stack</strong>.<br>
@@ -21,6 +23,8 @@
   </p>
   <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc0dm14bjdiZHVncjc1ZzFwZHkzMnhmOXczb2NtdnhmMHhodWtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
+
+
 
 
 
